@@ -1,0 +1,29 @@
+.offer {
+    background-color: #eceecf;
+    padding-bottom: 40px;
+}
+
+.offer-discount-block {
+    display: flex;
+    max-width: 70%;
+    margin: 0 auto;
+    justify-content: space-around;
+    text-transform: uppercase;
+    margin-bottom: 20px;
+}
+
+.offer-price {
+    font-size: 30px;
+}
+
+.offer-old-price {
+    text-decoration: line-through;
+}
+
+.offer-new-price {
+    color: orange;
+}
+
+.offer-btn {
+    text-align: center;
+}

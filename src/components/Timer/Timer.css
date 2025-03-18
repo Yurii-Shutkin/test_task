@@ -1,0 +1,31 @@
+.countdown {
+    display: flex;
+    gap: 15px;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+}
+
+.time-box {
+    background: #ff416c;
+    color: #fff;
+    padding: 25px 15px;
+    border-radius: 5px;
+    text-align: center;
+    min-width: 90px;
+}
+
+.time-value {
+    font-size: 38px;
+    font-weight: 600;
+    display: block;
+}
+
+.time-label {
+    font-size: 14px;
+    display: block;
+    margin-top: 5px;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    opacity: 0.8;
+}

@@ -1,0 +1,39 @@
+.product-title-wrapper {
+    background-color: #e89191;
+}
+
+.product-title {
+    padding: 25px 0;
+    color: #fff;
+
+    text-align: center;
+    font-size: 20px;
+}
+
+.product-image {
+    margin: 0 auto;
+    width: fit-content;
+}
+
+.product-desc {
+    width: 100%;
+    text-align: left;
+}
+
+.product-info {
+    /* margin-left: 30px; */
+    padding: 10px 0 0 30px;
+    font-size: 20px;
+    border: 1px solid #bababa;
+    border-left: none;
+    border-right: none;
+
+}
+
+.product-info:first-child {
+    border-top: none;
+}
+
+.product-info:last-child {
+    border-bottom: none;
+}

@@ -1,0 +1,19 @@
+.header {
+    display: flex;
+    justify-content: space-between;
+    padding: 15px 0;
+    margin: 0 30px;
+}
+
+.header-title {
+    font-weight: bold;
+}
+
+.header-desc {
+    font-weight: 400;
+}
+
+.header-items {
+    display: flex;
+    flex-direction: column;
+}
